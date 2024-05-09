@@ -17,7 +17,7 @@ void setup() {
   // Carga de imágenes
   fondo1 = loadImage("../assets/Imagenes/feria.jpeg");
   fondo2 = loadImage("../assets/Imagenes/XV años.jpeg");
-  fondo3 = loadImage("../assets/Imagenes/R (1).jpg");
+  fondo3 = loadImage("../assets/Imagenes/microbus.jpg");
   imagenCentro = loadImage("../assets/Imagenes/pngtree-beautiful-virgin-de-guadalupe-png-image_9065820.png");
    // Carga de sonidos
   sonidoFondo1 = new SoundFile(this, "../assets/Sonidos/AUD-20240429-WA0014.mp3");
